@@ -1,0 +1,8 @@
+.resume-section {
+    padding: 8px;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
